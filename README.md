@@ -53,9 +53,8 @@
 🧠 Tech: LangChain | FAISS | LLM  
 ⚡ Features: Semantic Search | RAG  
 📊 Accuracy: 88%  
-
-🔗 Live Demo: *(Coming Soon)*  
-🔗 Code: *(Add your repo link here)*  
+ 
+🔗 Code: *(https://github.com/Rajjuram07/Agricultural-Climate-Data-Q-A-System)*  
 
 ---
 
@@ -64,8 +63,7 @@
 ⚡ Features: Email Automation | Smart Scheduling  
 📊 Impact: 45% efficiency improvement  
 
-🔗 Live Demo: *(Coming Soon)*  
-🔗 Code: *(Add your repo link here)*  
+🔗 Code: *(https://github.com/Rajjuram07/Intelligent-Email-Management-System-using-AI)*  
 
 ---
 
@@ -74,7 +72,7 @@
 📊 Accuracy: 92%  
 ⚡ Features: Grad-CAM Explainability  
 
-🔗 Code: *(Add your repo link here)*  
+🔗 Code: *(https://github.com/Rajjuram07/Deep-Learning-for-Pneumonia-Detection-and-X-Ray-Restoration)*  
 
 ---
 
