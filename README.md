@@ -1,16 +1,16 @@
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![AI/ML](https://img.shields.io/badge/AI%2FML-Engineer-green)
-![GenAI](https://img.shields.io/badge/Generative%20AI-LLM-orange)
-
 <h1 align="center">Hi 👋, I'm Rajjuram Goyal</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=AI%2FML+Engineer;Generative+AI+Developer;RAG+%7C+LLM+Specialist;Building+Intelligent+Systems" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rajjuram07&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
 ---
 
-## 🚀 About Me  
+<h2 align="center">🚀 About Me</h2>
 
 💡 AI/ML Engineer with hands-on experience in building **end-to-end AI systems**, including **RAG pipelines, LLM-based applications, and intelligent automation systems**.  
 
@@ -23,7 +23,7 @@
 
 ---
 
-## 🔭 Currently Working On  
+<h2 align="center">🔭 Currently Working On</h2>
 
 - 🤖 Agentic AI Systems  
 - 🧠 RAG Optimization & LLM Applications  
@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠 Tech Stack  
+<h2 align="center">🛠 Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,docker,postgres,mysql,git,github" />
@@ -39,7 +39,7 @@
 
 ---
 
-## 🧠 Generative AI & Tools  
+<h2 align="center">🧠 Generative AI & Tools</h2>
 
 - LLMs | RAG | LangChain | LangGraph | LlamaIndex  
 - Prompt Engineering | Semantic Search | Embeddings  
@@ -47,13 +47,12 @@
 
 ---
 
-## 🚀 Featured Projects  
+<h2 align="center">🚀 Featured Projects</h2>
 
 ### 🌱 Agricultural Climate Data Q&A System (RAG)  
-- Built a **RAG-based AI system** using FAISS + LangChain  
-- Implemented **semantic search & vector embeddings**  
-- Achieved **88% response relevance**  
-- Deployed using Streamlit  
+🧠 Tech: LangChain | FAISS | LLM  
+⚡ Features: Semantic Search | RAG  
+📊 Accuracy: 88%  
 
 🔗 Live Demo: *(Coming Soon)*  
 🔗 Code: *(Add your repo link here)*  
@@ -61,9 +60,9 @@
 ---
 
 ### 📧 AI-Powered Email Management System  
-- Built NLP + LLM-based **email automation system**  
-- Integrated Gmail & Google Calendar APIs  
-- Automated summarization, reply generation & scheduling  
+🧠 Tech: NLP | LLM | FastAPI | Streamlit  
+⚡ Features: Email Automation | Smart Scheduling  
+📊 Impact: 45% efficiency improvement  
 
 🔗 Live Demo: *(Coming Soon)*  
 🔗 Code: *(Add your repo link here)*  
@@ -71,42 +70,48 @@
 ---
 
 ### 🩺 Pneumonia Detection using Deep Learning  
-- CNN model using VGG19 (**92% accuracy**)  
-- Applied Grad-CAM for explainability  
-- Improved image preprocessing and model performance  
+🧠 Tech: TensorFlow | VGG19 | OpenCV  
+📊 Accuracy: 92%  
+⚡ Features: Grad-CAM Explainability  
 
 🔗 Code: *(Add your repo link here)*  
 
 ---
 
-## 📊 GitHub Stats  
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rajjuram07&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rajjuram07&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajjuram07&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajjuram07&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rajjuram07&theme=tokyonight" />
 </p>
 
 ---
 
-## 🏆 Highlights  
+<h2 align="center">🏆 Highlights</h2>
 
 - Built multiple **AI/ML and Generative AI systems**  
-- Experience with **LLMs, RAG pipelines, and semantic search**  
+- Strong experience in **LLMs, RAG pipelines, and semantic search**  
 - Developed **production-ready AI applications and APIs**  
 
 ---
 
-## 🌐 Connect With Me  
+<h2 align="center">🌐 Connect With Me</h2>
 
-🔗 LinkedIn: https://linkedin.com/in/rajjuram07  
-📧 Email: rajjuram55@gmail.com  
+<p align="center">
+  <a href="https://linkedin.com/in/rajjuram07">LinkedIn</a> •
+  <a href="mailto:rajjuram55@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🚀 Open to Opportunities  
+<h2 align="center">🚀 Open to Opportunities</h2>
 
 ⭐ Actively seeking roles in **AI/ML, Data Science, and Generative AI**  
-📩 Feel free to connect or collaborate!  
+📩 Feel free to connect or collaborate!
